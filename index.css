@@ -1,0 +1,13 @@
+body{
+    /* background-color: lightgreen; */
+}
+.container{
+    background-color: lightgreen;
+}
+#value{
+    margin: 20px 50px;border-color: lightsalmon;
+}
+#value{
+    border: 2px solid lightskyblue;
+    background-color: white;font-size: 15px;text-align: center;
+}
